@@ -11,9 +11,8 @@ Three bisinuess questions were asked and answered:
 ## File Description
 
 - A Descriptive Jupyter Notebook
-- Two datasets:
-   Detailed Listings data for Boston and Seattle which were collected Aug.19th.
-   Dataset Link: http://insideairbnb.com/get-the-data.html
+
+   Dataset Link: https://www.kaggle.com/airbnb/boston
 
 ## Results of the analysis
 
